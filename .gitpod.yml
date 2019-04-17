@@ -2,3 +2,5 @@ github:
   prebuilds:
     master: false
     branches: false
+image:
+    file: .gitpod.dockerfile
