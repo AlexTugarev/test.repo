@@ -1,4 +1,1 @@
-github:
-  prebuilds:
-    master: false
-    branches: false
+image: ws-full:test
