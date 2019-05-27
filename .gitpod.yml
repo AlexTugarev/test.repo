@@ -1,4 +1,1 @@
-github:
-  prebuilds:
-    master: false
-    branches: false
+image: alpine:3.9
