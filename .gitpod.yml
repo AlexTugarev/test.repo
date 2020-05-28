@@ -1,4 +1,4 @@
-github:
-  prebuilds:
-    master: false
-    branches: false
+tasks:
+  - env:
+      FOO: BAR
+      PIP_USER: no
