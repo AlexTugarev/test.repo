@@ -1,4 +1,2 @@
 tasks:
-  - env:
-      FOO: BAR
-      PIP_USER: no
+  - before: "echo 'export PIP_USER=no' >> ~/.bashrc && export PIP_USER=no"
